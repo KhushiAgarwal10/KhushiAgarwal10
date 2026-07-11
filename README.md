@@ -1,106 +1,203 @@
-# Hi 👋 I'm Khushi Agarwal
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
 
+# Hi 👋 I'm Khushi Agarwal
+
 ### 🚀 Aspiring Machine Learning Engineer | AI Enthusiast | Data Science Explorer
 
-> *"Turning data into intelligence and ideas into impactful solutions."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Science+Learner;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 💫 About Me
 
-I'm **Khushi Agarwal**, a B.Tech Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent applications, solving real-world problems with data, and continuously improving my skills through projects, internships, and hands-on learning.
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-**Computer Science Engineering**  
-**COER University, Roorkee**  
-**2023 – 2027**
+I'm Khushi Agarwal, a Computer Science Engineering undergraduate at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building real-world AI solutions, exploring new technologies, and continuously improving my skills through projects, internships, and hands-on learning. My goal is to grow as a Machine Learning Engineer and develop innovative solutions that create meaningful impact.
 
 ---
 
-# 🛠️ Tech Stack
+🎓 Education
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,js,react,tailwind,git,github,vscode,pycharm"/>
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+COER University, Roorkee
+2023 – 2027
+
+Currently pursuing a Bachelor's degree in Computer Science Engineering with a strong academic foundation in programming, data structures, algorithms, databases, and artificial intelligence. My coursework and hands-on projects have strengthened my analytical thinking and problem-solving abilities while fueling my passion for emerging technologies.
+
+### 🌱 Currently
+
+* 🔭 Building AI & Machine Learning Projects
+* 📚 Learning Advanced Machine Learning & MLOps
+* 💻 Exploring Open Source
+* 🎯 Preparing for Software & AI/ML Roles
+* ☁️ Working with IBM watsonx.ai
+
+---
+
+# 🚀 Tech Stack
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
 </p>
 
-<p align="center">
-Machine Learning • Pandas • NumPy • Scikit-Learn • XGBoost • Matplotlib • Seaborn • Power BI • IBM watsonx.ai • Jupyter Notebook
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
----
+### 🤖 AI / Machine Learning
 
-# 🚀 Featured Projects
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,matplotlib,seaborn" />
+</p>
 
-- 🤖 AI Career Copilot (Groq AI)
-- 💳 Credit Card Fraud Detection
-- 📰 Fake News Detection
-- 🚀 AI Startup Blueprint (AICTE Internship)
-- 📊 Student Performance Prediction
-- 🪖 Army Project
-- 🔐 Network Security
+### 🛠️ Tools & Platforms
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,google colab,ibm cloud,pycharm" />
+</p>
 
-# 🏆 Certifications & Internships
+### ☁️ Other Technologies
 
-- IBM SkillsBuild
-- AICTE SkillBuild
-- Syntecxhub Machine Learning Internship
-- Flyrank AI ML Engineer Program
-- Simplilearn Certifications
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
+</p>
 
----
+* IBM watsonx.ai
+* Jupyter Notebook
+* XGBoost
 
-# 📊 GitHub Statistics
-
-Replace `YOUR_USERNAME` below.
-
-```md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true
-```
-
-## 🔥 GitHub Streak
-
-```md
-https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true
-```
-
-## 📈 Activity Graph
-
-```md
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark
-```
-
-## 🐍 Contribution Snake
-
-After enabling the GitHub Action:
-
-```md
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg
-```
 
 ---
 
-# 🌐 Connect With Me
+# 🌟 Featured Projects
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+🤖 AI Career Copilot (Groq AI)
+
+💳 Credit Card Fraud Detection
+
+📰 Fake News Detection
+
+🚀 AI Startup Blueprint (AICTE Internship)
+
+📊 Student Performance Prediction
+
+🪖 Army Management System
+
+🔐 Network Security Analysis
+
+---
+
+# 🏅 Certifications
+
+🏆 IBM SkillsBuild
+
+🏆 AICTE SkillBuild
+
+🏆 Simplilearn
+
+🏆 Syntecxhub Machine Learning Internship
+
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiAgarwal10&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiAgarwal10&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KhushiAgarwal10&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiAgarwal10&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhushiAgarwal10&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✔ Machine Learning
+
+✔ Artificial Intelligence
+
+✔ Deep Learning
+
+✔ Data Science
+
+✔ MLOps
+
+✔ Open Source
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/khushi-agarwal-2a5a162bb/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:khushiagarwal16923@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KhushiAgarwal10">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thank You
+## 💬 Favorite Quote
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, connect with me, and collaborate on AI & Machine Learning projects.
+*"Learning never exhausts the mind. Every line of code is another step toward innovation."*
+
+⭐ **Thanks for visiting my profile!**
+
+If you enjoy my projects, consider giving them a ⭐ and connecting with me.
 
 </div>
