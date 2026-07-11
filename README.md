@@ -1,173 +1,117 @@
-<!-- ======================= Banner ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Khushi%20Agarwal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20AI%20Enthusiast&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:2563EB,100:06B6D4&text=Khushi%20Agarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Artificial%20Intelligence%20Enthusiast&descAlignY=55"/>
 </p>
 
-<!-- =================== Typing Animation ================= -->
+<h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Khushi+Agarwal+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Science+Enthusiast;AI+Explorer;Always+Learning+Something+New+%F0%9F%9A%80" />
-</p>
+<h3 align="center">
+Machine Learning Engineer • AI Enthusiast • Data Science Learner
+</h3>
 
-<!-- ==================== Profile Views =================== -->
+💭 Quote
+> *"Turning data into intelligence and ideas into impactful solutions."*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+👩‍💻 About Me
+I'm **Khushi Agarwal**, a Computer Science Engineering undergraduate passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent applications, solving real-world problems through data, and continuously expanding my knowledge through projects, internships, and hands-on learning.
 
----
-
-💫 About Me
-
-I'm Khushi Agarwal, a Computer Science Engineering undergraduate at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building real-world AI solutions, exploring new technologies, and continuously improving my skills through projects, internships, and hands-on learning. My goal is to grow as a Machine Learning Engineer and develop innovative solutions that create meaningful impact.
-
----
 🎓 Education
+**Bachelor of Technology (B.Tech)**
 
-Bachelor of Technology (B.Tech) in Computer Science Engineering
-COER University, Roorkee
-2023 – 2027
+📍 Computer Science Engineering
 
-Currently pursuing a Bachelor's degree in Computer Science Engineering with a strong academic foundation in programming, data structures, algorithms, databases, and artificial intelligence. My coursework and hands-on projects have strengthened my analytical thinking and problem-solving abilities while fueling my passion for emerging technologies.
+🏫 COER University, Roorkee
 
----
+📅 2023 – 2027
 
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=py" />
-</p>
-
-* Pandas
-* NumPy
-* Scikit-learn
-* XGBoost
-* Matplotlib
-* Seaborn
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
-Power BI • Jupyter Notebook • IBM watsonx.ai
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Career Copilot
-
-AI-powered career assistant built using groq ai
-
-### 💳 Credit Card Fraud Detection
-
-Machine Learning model using SMOTE, Random Forest and XGBoost.
-
-### 📰 Fake News Detection
-
-NLP-based machine learning project to classify fake and real news.
-
-
-
----
-
-## 🏆 Certifications & Internships
-
-* IBM SkillsBuild
-* AICTE SkillBuild
-* Syntecxhub Machine Learning Internship
-* Simplilearn Certifications
-* Yuvaintern Internship
-
----
-
-## 🌱 Currently Working On
-
-* 🤖 Machine Learning Projects
-* 📊 Data Science Portfolio
-* ☁️ IBM watsonx.ai
-* 📚 GATE CSE Preparation
-* 🚀 Open Source Learning
-
----
-
-## 📊 GitHub Statistics
+🛠️ Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
 
----
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Enable the GitHub Action in your profile repository to generate this image automatically.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Machine Learning • Pandas • NumPy • Scikit-Learn • XGBoost • Matplotlib • Seaborn • Power BI • IBM watsonx.ai • Jupyter Notebook
 
 </p>
 
----
+🚀 Featured Projects
 
-## 💬 Quote
+🤖 AI Career Copilot (Groq AI)
 
-> *"Every project is an opportunity to learn, improve, and build something meaningful."*
+💳 Credit Card Fraud Detection
 
----
+📰 Fake News Detection
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+🚀 AI Startup Blueprint (AICTE Internship)
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+📊 Student Performance Prediction
+
+🪖 Army Management System
+
+🔐 Network Security Analysis
+
+
+🏆 Certifications & Internships
+🏅 IBM SkillsBuild
+
+🏅 AICTE SkillBuild
+
+🏅 Syntecxhub Machine Learning Internship
+
+🏅 Flyrank AI ML Engineer Program
+
+🏅 Simplilearn Certifications
+
+
+📊 GitHub Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+
+🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushi-agarwal-2a5a162bb/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:khushiagarwal16923@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KhushiAgarwal10)
+
+<div align="center">
+
+### Thank you for visiting my profile! 😊
+
+If you like my work, consider ⭐ starring my repositories and feel free to connect with me. I'm always open to learning, collaborating, and contributing to exciting AI and Machine Learning projects.
+
+</div>
