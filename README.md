@@ -112,15 +112,6 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with a st
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiAgarwal10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiAgarwal10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
