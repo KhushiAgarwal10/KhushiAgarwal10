@@ -18,19 +18,18 @@
 
 ---
 
-## 👩‍💻 About Me
+💫 About Me
 
-🎓 **B.Tech in Computer Science Engineering (2023–2027)**
-🏫 COER University, Roorkee
+I'm Khushi Agarwal, a Computer Science Engineering undergraduate at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building real-world AI solutions, exploring new technologies, and continuously improving my skills through projects, internships, and hands-on learning. My goal is to grow as a Machine Learning Engineer and develop innovative solutions that create meaningful impact.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
+---
+🎓 Education
 
-* 🤖 Aspiring Machine Learning Engineer
-* 🌱 Currently learning Advanced Machine Learning & MLOps
-* 📚 Building AI & Data Science projects
-* 💼 Looking for ML, AI & Data Science opportunities
-* 🎯 Goal: Build AI solutions that solve real-world problems
-* ⚡ Fun Fact: I love turning datasets into meaningful insights.
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+COER University, Roorkee
+2023 – 2027
+
+Currently pursuing a Bachelor's degree in Computer Science Engineering with a strong academic foundation in programming, data structures, algorithms, databases, and artificial intelligence. My coursework and hands-on projects have strengthened my analytical thinking and problem-solving abilities while fueling my passion for emerging technologies.
 
 ---
 
@@ -75,7 +74,7 @@ Power BI • Jupyter Notebook • IBM watsonx.ai
 
 ### 🤖 AI Career Copilot
 
-AI-powered career assistant built using IBM watsonx.ai.
+AI-powered career assistant built using groq ai
 
 ### 💳 Credit Card Fraud Detection
 
@@ -85,13 +84,7 @@ Machine Learning model using SMOTE, Random Forest and XGBoost.
 
 NLP-based machine learning project to classify fake and real news.
 
-### 👁️ Eye Blink Mouse Controller
 
-Computer Vision project using OpenCV & MediaPipe.
-
-### 📊 Customer Segmentation
-
-K-Means clustering for customer segmentation.
 
 ---
 
@@ -101,7 +94,7 @@ K-Means clustering for customer segmentation.
 * AICTE SkillBuild
 * Syntecxhub Machine Learning Internship
 * Simplilearn Certifications
-* Flyrank AI ML Engineer Program
+* Yuvaintern Internship
 
 ---
 
@@ -132,13 +125,6 @@ K-Means clustering for customer segmentation.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
