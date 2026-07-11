@@ -32,6 +32,8 @@ COER University, Roorkee
 
 Currently pursuing a Bachelor's degree in Computer Science Engineering with a strong academic foundation in programming, data structures, algorithms, databases, and artificial intelligence. My coursework and hands-on projects have strengthened my analytical thinking and problem-solving abilities while fueling my passion for emerging technologies.
 
+---
+
 ### 🌱 Currently
 
 * 🔭 Building AI & Machine Learning Projects
@@ -72,7 +74,7 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with a st
 
 ### ☁️ Other Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,jupyter" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM-watsonx.ai-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
