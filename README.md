@@ -1,5 +1,7 @@
 <!-- ========================= HEADER ========================= -->
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:2563EB,100:06B6D4&text=Khushi%20Agarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Artificial%20Intelligence%20Enthusiast&descAlignY=55"/>
+</p>
 <div align="center">
 
 # Hi 👋 I'm Khushi Agarwal
@@ -10,7 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KhushiAgarwal10&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -65,18 +67,16 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with a st
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,google colab,ibm cloud,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ### ☁️ Other Technologies
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,jupyter" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-watsonx.ai-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
-
-* IBM watsonx.ai
-* Jupyter Notebook
-* XGBoost
 
 
 ---
@@ -114,13 +114,10 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with a st
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiAgarwal10&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiAgarwal10&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiAgarwal10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiAgarwal10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
@@ -139,16 +136,6 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with a st
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiAgarwal10&theme=github-dark"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KhushiAgarwal10&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
